@@ -1,12 +1,12 @@
 ---
-layout: page
-title: "Resume"
-permalink: /resume/
+layout: default
+title: "Savitha Kandugula - Business Analyst Portfolio"
 ---
 
-<nav class="site-nav">
+<nav class="sticky-nav">
   <a href="/">Home</a>
   <a href="/about/">About Me</a>
+  <a href="/resume/">Resume</a>
   <a href="/contact/">Contact</a>
 </nav>
 
@@ -109,7 +109,7 @@ Informācijas Sistēmu Menedžmenta Augstskola (ISMA University) – Riga, Latvi
 
 - Business Analysis Foundations: Planning – LinkedIn Learning  
 - The Complete Business Analysis Fundamentals Course + CERT – YESI Education  
-- BA Analysis Basics – Simplilearn | SkillUp  
+- BA Analysis Basics – Simplilearn  
 - Agile & Jira Certification – AGILEKB  
 - Microsoft Planner & Teams Certification – PMKB  
 - Trello Certified – YESI Education  

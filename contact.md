@@ -1,13 +1,13 @@
 ---
-layout: page
-title: "Contact Me"
-permalink: /contact/
+layout: default
+title: "Savitha Kandugula - Business Analyst Portfolio"
 ---
 
-<nav class="site-nav">
+<nav class="sticky-nav">
   <a href="/">Home</a>
   <a href="/about/">About Me</a>
   <a href="/resume/">Resume</a>
+  <a href="/contact/">Contact</a>
 </nav>
 
 # Contact Me

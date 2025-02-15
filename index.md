@@ -1,14 +1,15 @@
 ---
-layout: home
+layout: default
 title: "Savitha Kandugula - Business Analyst Portfolio"
-permalink: /
 ---
 
-<nav class="site-nav">
+<nav class="sticky-nav">
+  <a href="/">Home</a>
   <a href="/about/">About Me</a>
   <a href="/resume/">Resume</a>
   <a href="/contact/">Contact</a>
 </nav>
+
 
 <!-- Profile Picture -->
 <div style="text-align: center; margin-top: 20px;">

@@ -1,0 +1,33 @@
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | escape }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Reference your compiled CSS file -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  </head>
+  <body>
+    <!-- Nav Bar -->
+    <nav class="site-nav">
+      <div class="wrapper">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/about/" class="nav-link">About Me</a>
+        <a href="/resume/" class="nav-link">Resume</a>
+        <a href="/contact/" class="nav-link">Contact</a>
+      </div>
+    </nav>
+
+    <!-- Main Content Container -->
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <!-- Optional Footer -->
+    <footer class="site-footer">
+      <p>© {{ site.time | date: "%Y" }} Savitha Kandugula. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
+<!-- End of _layouts/default.html -->

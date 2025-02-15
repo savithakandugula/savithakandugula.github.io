@@ -1,11 +1,11 @@
 ---
-layout: page
-title: "About Me"
-permalink: /about/
+layout: default
+title: "Savitha Kandugula - Business Analyst Portfolio"
 ---
 
-<nav class="site-nav">
+<nav class="sticky-nav">
   <a href="/">Home</a>
+  <a href="/about/">About Me</a>
   <a href="/resume/">Resume</a>
   <a href="/contact/">Contact</a>
 </nav>
@@ -30,7 +30,7 @@ I am an aspiring **Business Analyst** with a strong foundation in stakeholder ma
 
 - [Business Analysis Foundations: Planning – LinkedIn Learning](https://www.linkedin.com/learning)
 - The Complete Business Analysis Fundamentals Course + CERT – YESI Education
-- [BA Analysis Basics – Simplilearn | SkillUp](https://www.simplilearn.com)
+- [BA Analysis Basics – Simplilearn](https://www.simplilearn.com)
 - Agile & Jira Certification – AGILEKB
 - Microsoft Planner & Teams Certification – PMKB
 
