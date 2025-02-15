@@ -2,6 +2,7 @@ theme: "minima"
 baseurl: ""
 url: "https://savithakandugula.github.io"
 
+title: "Savitha Kandugula Portfolio"
 author:
   name: "Savitha Kandugula"
   email: "savithakandugula4@gmail.com"
@@ -15,6 +16,9 @@ header_pages:
   - about.md
   - resume.md
   - contact.md
+
+minima:
+  skin: "classic"
 
 include:
   - assets/css/custom.css

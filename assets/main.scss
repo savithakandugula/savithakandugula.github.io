@@ -79,3 +79,10 @@ a.button:hover, .button:hover {
 .site-footer a:hover {
   color: #1abc9c;
 }
+
+.container {
+    max-width: 1100px; /* Adjust to taste */
+    margin: 0 auto;
+    padding: 0 1rem;   /* Some horizontal padding */
+}
+  
