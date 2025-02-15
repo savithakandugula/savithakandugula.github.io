@@ -10,4 +10,4 @@ author:
 sass:
   sass_dir: assets
 include:
-  - assets/main.scss
+  - assets
