@@ -1,4 +1,17 @@
 title: "Savitha Kandugula Portfolio"
-description: "A portfolio showcasing my Business Analysis projects, case studies, and certifications."
-author: "Savitha Kandugula"
-theme: minima
+description: "A professional portfolio showcasing Business Analysis projects, case studies, and process improvements."
+theme: beautiful-jekyll
+baseurl: ""
+url: "https://savithakandugula.github.io"
+
+author:
+  name: "Savitha Kandugula"
+  email: "savithakandugula4@gmail.com"
+
+# Navigation pages (order matters)
+header_pages:
+  - index.md
+  - about.md
+  - resume.md
+  - contact.md
+
