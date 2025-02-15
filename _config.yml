@@ -1,6 +1,6 @@
 title: "Savitha Kandugula Portfolio"
 description: "A professional portfolio showcasing Business Analysis projects, case studies, and process improvements."
-theme: beautiful-jekyll
+remote_theme: "remote_theme: daattali/beautiful-jekyll@6.0.1"
 baseurl: ""
 url: "https://savithakandugula.github.io"
 
