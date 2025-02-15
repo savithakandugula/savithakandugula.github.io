@@ -1,65 +1,76 @@
-/* assets/css/custom.css */
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
 
-/* Overall background and text colors */
+/* Import Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+/* Set the base font for the body */
 body {
-    background-color: #f4f7f6; /* A soft off-white with a hint of coolness */
-    color: #333; /* Dark grey for comfortable reading */
-  }
-  
-  /* Navigation Bar & Header */
-  .navbar, .site-header {
-    background-color: #2c3e50; /* A sophisticated dark blue-gray */
-    color: #ecf0f1; /* Light, almost white text for contrast */
-  }
-  
-  .navbar a, .site-header a {
-    color: #ecf0f1;
-  }
-  
-  .navbar a:hover, .site-header a:hover {
-    color: #1abc9c; /* A refined teal for hover effects */
-  }
-  
-  /* Link Colors */
-  a {
-    color: #2980b9; /* A professional blue */
-  }
-  
-  a:hover {
-    color: #1abc9c; /* A softer teal on hover */
-  }
-  
-  /* Buttons */
-  a.button, .button {
-    background-color: #2980b9;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    text-decoration: none;
-  }
-  
-  a.button:hover, .button:hover {
-    background-color: #1abc9c;
-  }
-  
-  /* Headings */
-  h1, h2, h3, h4, h5, h6 {
-    color: #2c3e50;
-  }
-  
-  /* Footer Styling */
-  .site-footer {
-    background-color: #2c3e50;
-    color: #bdc3c7;
-    padding: 20px 0;
-  }
-  
-  .site-footer a {
-    color: #ecf0f1;
-  }
-  
-  .site-footer a:hover {
-    color: #1abc9c;
-  }
-  
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f7f6; /* Soft off-white with a cool tone */
+  color: #333;
+}
+
+/* Headings and Navigation use Rubik */
+h1, h2, h3, h4, h5, h6, .site-nav, .site-header {
+  font-family: 'Rubik', sans-serif;
+  color: #2c3e50;
+}
+
+/* Navigation Bar Styling */
+.site-nav {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #2c3e50; /* Dark blue-gray */
+  margin-bottom: 20px;
+}
+
+.site-nav a {
+  color: #ecf0f1;
+  font-size: 18px;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  color: #1abc9c;
+}
+
+/* Links */
+a {
+  color: #2980b9;
+}
+
+a:hover {
+  color: #1abc9c;
+}
+
+/* Buttons */
+a.button, .button {
+  background-color: #2980b9;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+a.button:hover, .button:hover {
+  background-color: #1abc9c;
+}
+
+/* Footer Styling */
+.site-footer {
+  background-color: #2c3e50;
+  color: #bdc3c7;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.site-footer a {
+  color: #ecf0f1;
+}
+
+.site-footer a:hover {
+  color: #1abc9c;
+}

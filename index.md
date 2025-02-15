@@ -4,6 +4,12 @@ title: "Savitha Kandugula - Business Analyst Portfolio"
 permalink: /
 ---
 
+<nav class="site-nav">
+  <a href="/about/">About Me</a>
+  <a href="/resume/">Resume</a>
+  <a href="/contact/">Contact</a>
+</nav>
+
 <!-- Profile Picture -->
 <div style="text-align: center; margin-top: 20px;">
   <img src="/assets/profile.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
