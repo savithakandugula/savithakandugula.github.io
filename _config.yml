@@ -8,6 +8,9 @@ author:
   name: "Savitha Kandugula"
   email: "savithakandugula4@gmail.com"
 
+sass:
+  sass_dir: assets
+
 # Navigation pages (order matters)
 header_pages:
   - index.md

@@ -1,0 +1,63 @@
+@import "beautiful-jekyll";  /* This imports the remote theme’s SCSS */
+
+/* Custom Overrides */
+body {
+  background-color: #f4f7f6 !important; /* Soft off-white with a cool tone */
+  color: #333;
+}
+
+/* Navigation Bar & Header */
+.navbar, .site-header {
+  background-color: #2c3e50 !important; /* Dark blue-gray for a professional look */
+  color: #ecf0f1 !important;
+}
+
+.navbar a, .site-header a {
+  color: #ecf0f1 !important;
+}
+
+.navbar a:hover, .site-header a:hover {
+  color: #1abc9c !important; /* Teal hover effect */
+}
+
+/* Link Colors */
+a {
+  color: #2980b9 !important; /* Professional blue for links */
+}
+
+a:hover {
+  color: #1abc9c !important;
+}
+
+/* Buttons */
+.button, a.button {
+  background-color: #2980b9 !important;
+  color: #fff !important;
+  border-radius: 4px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover, a.button:hover {
+  background-color: #1abc9c !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #2c3e50;
+}
+
+/* Footer Styling */
+.site-footer {
+  background-color: #2c3e50;
+  color: #bdc3c7;
+  padding: 20px 0;
+}
+
+.site-footer a {
+  color: #ecf0f1;
+}
+
+.site-footer a:hover {
+  color: #1abc9c;
+}
