@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Savitha Kandugula - Business Analyst Portfolio"
 permalink: /
 ---
