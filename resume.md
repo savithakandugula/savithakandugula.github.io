@@ -6,14 +6,12 @@ permalink: /resume/
 
 <nav class="sticky-nav">
   <a href="/">Home</a>
-  <a href="/about/">About Me</a>
   <a href="/resume/">Resume</a>
-  <a href="/contact/">Contact</a>
 </nav>
 
 <!-- Download Button -->
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="/assets/SavithaKandugula_Resume.pdf" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;" download>
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="/assets/SavithaKandugula_Resume.pdf" class="download-resume-btn" download>
     Download Resume PDF
   </a>
 </div>
