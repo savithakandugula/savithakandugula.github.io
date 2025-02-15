@@ -4,11 +4,6 @@ title: "Resume"
 permalink: /resume/
 ---
 
-<nav class="sticky-nav">
-  <a href="/">Home</a>
-  <a href="/resume/">Resume</a>
-</nav>
-
 <!-- Download Button -->
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/assets/SavithaKandugula_Resume.pdf" class="download-resume-btn" download>

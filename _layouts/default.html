@@ -5,18 +5,24 @@
     <meta charset="utf-8">
     <title>{{ page.title | escape }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- Reference your compiled CSS file -->
+    <!-- Link to your compiled CSS (Jekyll will compile main.scss -> main.css) -->
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
   <body>
-    <!-- Main Content Container -->
+
+    <!-- Optional Nav Bar -->
+    <nav class="sticky-nav">
+      <a href="/">Home</a>
+      <a href="/resume/">Resume</a>
+    </nav>
+
+    <!-- Main Container -->
     <main class="container">
       {{ content }}
     </main>
 
-    <!-- Footer Partial -->
+    <!-- Footer -->
     {% include footer.html %}
-    
+
   </body>
 </html>
-<!-- End of _layouts/default.html -->
