@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Savitha Kandugula - Business Analyst Portfolio"
+title: "Contact"
+permalink: /contact/
 ---
 
 <nav class="sticky-nav">

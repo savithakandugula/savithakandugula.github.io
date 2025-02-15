@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Savitha Kandugula - Business Analyst Portfolio"
+title: "About Me"
+permalink: /about/
 ---
 
 <nav class="sticky-nav">
@@ -10,7 +11,6 @@ title: "Savitha Kandugula - Business Analyst Portfolio"
   <a href="/contact/">Contact</a>
 </nav>
 
-# About Me
 
 I am an aspiring **Business Analyst** with a strong foundation in stakeholder management, process improvement, and Agile methodologies. Leveraging over **6 years of experience in Talent Acquisition**, I am transitioning into Business Analysis and continuously enhancing my skills through hands-on projects and certification courses. My journey is defined by a commitment to data-driven decision-making and process optimization.
 
