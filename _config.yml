@@ -9,16 +9,3 @@ author:
 
 sass:
   sass_dir: assets
-
-# Navigation pages (order matters)
-header_pages:
-  - index.md
-  - about.md
-  - resume.md
-  - contact.md
-
-minima:
-  skin: "classic"
-
-include:
-  - assets/css/custom.css

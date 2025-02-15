@@ -3,6 +3,12 @@ layout: page
 permalink: /contact/
 ---
 
+<nav class="site-nav">
+  <a href="/">Home</a>
+  <a href="/about/">About Me</a>
+  <a href="/resume/">Resume</a>
+</nav>
+
 # Contact Me
 
 Feel free to reach out via the following:
