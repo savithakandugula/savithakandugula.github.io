@@ -11,6 +11,22 @@ permalink: /resume/
   </a>
 </div>
 
+
+# SAVITHA KANDUGULA  
+**BUSINESS ANALYSIS ENTHUSIAST**  
+:round_pushpin: **Location:** Riga, Latvia (EU Blue Card)  
+:heavy_check_mark: **Visa Sponsorship not needed**  
+
+## Contact
+
+- **Email:** [skandugula7@gmail.com](mailto:skandugula7@gmail.com)  
+- **Phone:** +371 24882302  
+- **Portfolio:** [Business Analyst Portfolio](#)  
+- **LinkedIn:** [SavithaKandugula](#)  
+- **GitHub:** [savithakandugula](#)
+
+---
+
 # PROFESSIONAL SUMMARY
 
 Business Analyst with 6+ years of expertise in data-driven decision-making, process optimization, and stakeholder collaboration. Adept at requirement gathering, process improvement, and Agile methodologies, with hands-on experience in JIRA, Confluence, PowerBI, and workflow automation. Currently leading Business Analysis projects across multiple industries, applying Agile principles and process optimization strategies to improve business efficiency.
