@@ -106,25 +106,20 @@ Currently advancing Business Analysis skills through **Agile project implementat
 
 ### **📌 Requirement Gathering & Elicitation:**  
 ✅ Brainstorming Sessions, Interviews, Surveys & Questionnaires, Workshops & Focus Groups, Document Analysis, Observation (Job Shadowing), Use Case Analysis.  
-
 ### **📌 Business Analysis & Process Mapping:**  
 ✅ Business Process Modeling Notation (BPMN), Flowcharts, Swimlane Diagrams, Root Cause Analysis (RCA).  
-
 ### **📌 Stakeholder Management & Communication:**  
 ✅ Stakeholder Matrix (RACI Chart), Stakeholder Mapping, User Personas, MoSCoW Prioritization.  
-
 ### **📌 Agile & Scrum Practices:**  
 ✅ User Stories & Epics, Product Backlog Grooming, Sprint Planning, Daily Standups (Scrum Meetings), Retrospectives.  
-
 ### **📌 Requirement Documentation & Traceability:**  
 ✅ Business Requirement Document (BRD), Functional Requirement Specification (FRS), Requirement Traceability Matrix (RTM), Use Case Diagrams.  
-
 ### **📌 Data Analysis & Visualization:**  
 ✅ PowerBI, Excel, Other Data Flow Diagrams.  
-
 ### **📌 Workflow & Collaboration Tools:**  
 ✅ Jira, Trello, Confluence, Microsoft Planner, Draw.io.  
 
 ---
+
 
 **📌 Want to collaborate? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/savitha-kandugula/) or check out my [GitHub]([your_github_url](https://github.com/savithakandugula)).** 🚀  
