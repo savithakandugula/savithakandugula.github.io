@@ -100,3 +100,18 @@ Designed a budget dashboard with AI-driven insights and developed data visualiza
 
 **Outcome:**  
 Demonstrated the complete lifecycle—from stakeholder analysis to user stories, functional specifications, and process flows.
+
+---
+
+### Business Analysis Case Study: Data-Driven Talent Acquisition Strategies
+
+[<i class="fab fa-github fa-lg"></i> GitHub Link](https://github.com/savithakandugula/ba-case-study-data-driven-talent-acquisition-strategies)
+
+**Problem**
+The challenge was to develop an effective recruitment strategy across diverse markets, each with unique talent pools, regulatory environments, and cultural dynamics. The goal was to determine the optimal sourcing channels and tailor recruitment processes to meet regional demands.
+
+**Approach**
+A data-driven analysis was conducted across key regions—including Dubai, Casablanca, Cairo, Tunis, Abu Dhabi, Sharjah, and Riyadh. By evaluating factors such as language requirements, visa/work permit regulations, candidate seniority levels, and the efficacy of different sourcing channels, the study provided a comprehensive view of each market’s nuances. This analytical approach enabled the formulation of customized recruitment strategies.
+
+**Outcome**
+The analysis revealed that a one-size-fits-all recruitment strategy is ineffective. Instead, the study recommended tailored approaches for each region to optimize talent acquisition. The actionable insights derived from the analysis demonstrate how leveraging data can increase placement rates, enhance diversity, and improve overall recruitment efficiency—showcasing critical business analysis skills for strategic decision-making.
