@@ -136,3 +136,27 @@ p, ul, ol {
   display: block;
   margin: 20px auto;
 }
+
+/* Links */
+a {
+    color: #2980b9;        /* Professional blue for default link color */
+    text-decoration: none;
+    transition: color 0.2s ease;  /* Smooth transition on hover */
+}
+  
+a:hover {
+    color: #1abc9c;        /* Teal accent on hover */
+    text-decoration: underline; /* Optional underline on hover */
+}
+  
+  /* Optional visited and focus states */
+a:visited {
+    color: #7f8c8d;        /* Subtle grey for visited links (optional) */
+}
+  
+a:focus,
+a:active {
+    outline: 2px dotted #2980b9; /* Accessible focus outline */
+    outline-offset: 2px;
+}
+  
