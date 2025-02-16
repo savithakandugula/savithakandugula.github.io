@@ -11,115 +11,123 @@ permalink: /resume/
   </a>
 </div>
 
-# SAVITHA KANDUGULA  
-**BUSINESS ANALYSIS ENTHUSIAST**  
+# PROFESSIONAL SUMMARY
 
-📍 **Location:** Riga, Latvia (EU Blue Card)  | ✅ **Visa Sponsorship not needed**  
+Business Analyst with 6+ years of expertise in data-driven decision-making, process optimization, and stakeholder collaboration. Adept at requirement gathering, process improvement, and Agile methodologies, with hands-on experience in JIRA, Confluence, PowerBI, and workflow automation. Currently leading Business Analysis projects across multiple industries, applying Agile principles and process optimization strategies to improve business efficiency.
 
-📧 **Email:** [skandugula7@gmail.com](mailto:skandugula7@gmail.com)  
-📞 **Phone:** +371 24882302  
-📂 **Portfolio:** [Business Analyst Portfolio](your_portfolio_url)  
-🔗 **LinkedIn:** [Savitha Kandugula](your_linkedin_url)  
-💻 **GitHub:** [savithakandugula](your_github_url)  
+- Skilled in business process mapping, stakeholder management, and Agile development.
+- Strong analytical mindset with experience in root cause analysis and workflow automation.
+- Proven ability to bridge business needs with technology to optimize workflows and efficiency.
 
 ---
 
-## 📌 PROFESSIONAL SUMMARY  
-Aspiring Business Analyst transitioning from Talent Acquisition, bringing **6+ years** of expertise in **data-driven decision-making, process optimization, and stakeholder collaboration**. Adept at **requirement gathering, market research, process improvement, and Agile methodologies**, with hands-on experience in **JIRA, Confluence, PowerBI**, etc.  
-Currently advancing Business Analysis skills through **Agile project implementations** in various industries and business case studies.  
+## BUSINESS ANALYSIS PROJECTS & CASE STUDIES
+
+### Agile Workflow Optimization – Enhancing Product Development (Gaming Industry)
+- **Problem:** The product development team faced bottlenecks and backlog delays, impacting release timelines.  
+- **Approach:** Employed Agile Scrum methodology to refine sprint planning and backlog prioritization. Developed workflow diagrams to enhance team collaboration.  
+- **Outcome:** Reduced inefficiencies by **30%** and decreased defect rates through continuous testing.
+
+### Expense Tracker – Business Analysis Case Study (FinTech Domain)
+- **Problem:** Users struggled with budget tracking and financial planning.  
+- **Approach:** Conducted requirement gathering sessions and created wireframes and process flow diagrams for an intuitive budgeting interface.  
+- **Outcome:** Established clear requirements that enhanced the banking app’s value proposition.
+
+### Customer Onboarding Optimization – Process Improvement (FinTech & Banking)
+- **Problem:** Onboarding delays led to increased drop-off rates and reduced conversions.  
+- **Approach:** Applied 5 Why analysis and developed a stakeholder matrix for improved interdepartmental alignment.  
+- **Outcome:** Reduced onboarding time by **40%**, enhancing customer retention.
+
+### Personal Finance Management – BA Project (FinTech & Banking)
+- **Problem:** Users lacked automated financial planning tools.  
+- **Approach:** Designed a budget dashboard with AI-driven insights and developed data visualization models to track spending trends.  
+- **Outcome:** Demonstrated the complete lifecycle—from stakeholder analysis to user stories, functional specifications, and process flows.
+
+### Business Analysis Case Study: Data-Driven Talent Acquisition Strategies
+- **Problem:** Inefficient talent acquisition processes leading to suboptimal placement rates across multiple markets.  
+- **Approach:** Conducted a comprehensive analysis of regional talent acquisition strategies, utilizing data-driven insights to identify key recruitment considerations and optimize sourcing and hiring practices.  
+- **Outcome:** Achieved a **20%** increase in placement rates by implementing optimized, data-informed recruitment strategies.
 
 ---
 
-## 🚀 CORE COMPETENCIES  
-- Agile Methodologies  
-- Requirements Gathering  
-- Process Mapping & Analysis  
-- Stakeholder Management  
-- Business Process Optimization  
-- Data-Driven Insights  
-- Project Coordination  
-- Cross-Functional Collaboration  
+## CERTIFICATIONS & LEARNING BADGES
+
+- **Business Analysis Foundations: Planning** (LinkedIn Learning)  
+- **The Complete Business Analysis Fundamentals Course + CERT** (YESI Education)  
+- **BA Analysis Basics** (Simplilearn | SkillUp)  
+- **Agile & Jira Certification** (AGILEKB)  
+- **Microsoft Planner & Teams Certification** (PMKB)  
+- **Trello Certified** (YESI Education)  
+- Multiple LinkedIn Certifications in Leadership  
+- **Power BI for Data Analysis** (Udemy – in progress)
 
 ---
 
-## 💼 EXPERIENCE  
+## TECHNICAL & ANALYTICAL SKILLS
 
-### **Business Analysis & Agile Learning (Training & Projects), Riga, Latvia**  
-*Self-Directed & Independent Learning* *(12/2024 - Present)*  
-- Completed **5 hands-on Business Analysis projects** in diverse industries.  
-- Developed **stakeholder matrices, user stories, and process flow diagrams** for BA case studies.  
-- Applied **5 Whys technique** & Agile methodologies to optimize workflows.  
-- Designed and implemented **Business Requirement Documents (BRD)** and **Traceability Matrices (RTM)**.  
-- Built a **BA Portfolio** showcasing **real-world case studies, process improvements, and wireframes**.  
-- Earned **certifications** in **Business Analysis, Agile, Jira, and Process Management**.  
-
-### **Elevate Jobs, IT Recruitment Partner (Europe), Riga, Latvia** *(12/2023 – 11/2024)*  
-- Conducted **stakeholder requirement analysis** to align hiring needs with **data-driven talent strategies**.  
-- Applied **process automation** to improve hiring efficiency by **25%**.  
-- Optimized **recruitment workflows using Agile methodologies & root cause analysis**.  
-
-### **allnex, Sr Talent Acquisition Specialist EMEA, Riga, Latvia** *(03/2022 – 11/2023)*  
-- Managed **stakeholder engagement** across **IT, Sales, R&D, and Operations** teams.  
-- Implemented **data-driven decision-making & reporting** to improve hiring efficiency.  
-- Led **HR process improvements**, integrating **SAP SuccessFactors** to enhance workflows.  
-
-### **Webroas, HR Recruiter/ Onboarding Specialist, Riga, Latvia** *(11/2020 – 03/2022)*  
-- Managed **recruitment** for roles in **marketing and IT**, ensuring **precise requirements gathering** for optimal candidate-job fit.  
-
-### **Evolution Gaming, Game Presenter, Riga, Latvia** *(01/2019 – 08/2020)*  
-- Adapted quickly to changing priorities while maintaining a strong focus on **stakeholder needs and customer satisfaction**.  
-
-### **RK Info Systems, HR Associate/Recruitments, India** *(01/2016 – 07/2018)*  
-- Managed **full-cycle recruitment for IT roles**, leveraging **requirements gathering and stakeholder management** to identify top talent.  
+- **Requirement Gathering & Elicitation:** Brainstorming sessions, interviews, surveys & questionnaires, workshops & focus groups, document analysis, observation (job shadowing), use case analysis.  
+- **Business Analysis & Process Mapping:** BPMN, flowcharts, swimlane diagrams, root cause analysis (RCA).  
+- **Stakeholder Management & Communication:** Stakeholder matrix (RACI chart), stakeholder mapping, user personas, MoSCoW prioritization.  
+- **Agile & Scrum Practices:** User stories & epics, product backlog grooming, sprint planning, daily standups (Scrum meetings), retrospectives.  
+- **Requirement Documentation & Traceability:** Business requirement documents (BRD), functional requirement specifications (FRS), requirement traceability matrix (RTM), use case diagrams.  
+- **Data Analysis & Visualization:** PowerBI, Excel, and other data flow diagrams.  
+- **Workflow & Collaboration Tools:** Jira, Trello, Confluence, Microsoft Planner, Draw.io.
 
 ---
 
-## 🎓 EDUCATION  
-### **Master of Business Administration, Business Management** *(01/2019 - 01/2021)*  
-**ISMA University – Riga, Latvia**  
-**Master Thesis:** *"Introducing New Technologies in Human Resources at Volkswagen Group"* – Market Research & Business Analysis.  
+## EXPERIENCE
+
+### Business Analysis & Agile Learning (Training & Projects), Riga, Latvia  
+**Self-Directed & Hands-on BA Projects**  
+*December 2024 – Present*  
+- Completed 5+ hands-on Business Analysis projects in diverse industries.  
+- Developed stakeholder matrices, user stories, and process flow diagrams for BA case studies.  
+- Applied 5 Whys technique & Agile methodologies to optimize workflows.  
+- Designed and implemented BRDs, FRDs, and Traceability Matrices (RTMs).  
+- Built a BA Portfolio showcasing real-world case studies, process improvements, and wireframes.  
+- Earned certifications in Business Analysis, Agile, Jira, and Process Management.  
+- Implemented a structured process map that reduced average hiring cycle time by 2 weeks.
+
+### Elevate Jobs, IT Recruitment Partner (Europe), Riga, Latvia  
+*December 2023 – November 2024*  
+- Conducted stakeholder requirement analysis to align hiring needs with data-driven talent strategies.  
+- Applied process automation to improve hiring efficiency by **25%**.  
+- Optimized recruitment workflows using Agile methodologies & root cause analysis.
+
+### Allnex, Sr Talent Acquisition Specialist EMEA, Riga, Latvia  
+*March 2022 – November 2023*  
+- Managed stakeholder engagement across IT, Sales, R&D, and Operations teams.  
+- Developed data-driven hiring reports, improving workforce planning and recruitment efficiency.  
+- Improved hiring pipeline efficiency by reducing process bottlenecks by **30%** using root cause analysis.  
+- Implemented HR process automation using SAP SuccessFactors, reducing administrative workload.  
+- Conducted business process mapping to streamline talent acquisition workflows.
+
+### Webroas, HR Recruiter/Onboarding Specialist, Riga, Latvia  
+*November 2020 – March 2022*  
+- Gathered business requirements from hiring managers to ensure an optimal candidate-job fit.  
+- Developed structured recruitment workflows based on process mapping techniques.
+
+### Evolution Gaming, Game Presenter, Riga, Latvia  
+*January 2019 – August 2020*  
+- Adapted swiftly to changing priorities while maintaining strong focus on stakeholder needs and customer satisfaction.
+
+### RK Info Systems, HR Associate/Recruiter, India  
+*January 2016 – July 2018*  
+- Managed full-cycle recruitment for IT roles, leveraging requirements gathering and stakeholder management to identify top talent.
 
 ---
 
-## 📊 BUSINESS ANALYSIS PROJECTS & CASE STUDIES  
-- **Agile Workflow Optimization** – Enhancing Product Development *(Gaming Industry)*  
-- **Expense Tracker** - Business Analysis Case Study *(FinTech Domain)*  
-- **Customer Onboarding Optimization** – Process Improvement *(FinTech & Banking)*  
-- **Personal Finance Management** – BA Project *(FinTech & Banking)*  
-- **Business Analysis Case Study:** Data-Driven Talent Acquisition Strategies  
+## EDUCATION
+
+- **Master of Business Administration, Business Management**  
+  *January 2019 – January 2021*  
+  Informācijas Sistēmu Menedžmenta Augstskola (ISMA University) – Riga, Latvia  
+  - *Master Thesis:* "Introducing New Technologies in Human Resources at Volkswagen Group" – Market Research & Business Analysis
 
 ---
 
-## 📜 CERTIFICATIONS & LEARNING BADGES  
-- **Business Analysis Foundations: Planning** – LinkedIn Learning  
-- **The Complete Business Analysis Fundamentals Course + CERT** – YESI Education  
-- **BA Analysis Basics** – Simplilearn | SkillUp  
-- **Agile & Jira Certification** – AGILEKB  
-- **Microsoft Planner & Teams Certification** – PMKB  
-- **Trello Certified** – YESI Education  
-- **Multiple LinkedIn Certifications Leadership**  
-- **Power BI for Data Analysis** – Udemy (in progress)  
+**References available upon request.**
 
----
-
-## 🛠 TECHNICAL & ANALYTICAL SKILLS  
-
-### **📌 Requirement Gathering & Elicitation:**  
-✅ Brainstorming Sessions, Interviews, Surveys & Questionnaires, Workshops & Focus Groups, Document Analysis, Observation (Job Shadowing), Use Case Analysis.  
-### **📌 Business Analysis & Process Mapping:**  
-✅ Business Process Modeling Notation (BPMN), Flowcharts, Swimlane Diagrams, Root Cause Analysis (RCA).  
-### **📌 Stakeholder Management & Communication:**  
-✅ Stakeholder Matrix (RACI Chart), Stakeholder Mapping, User Personas, MoSCoW Prioritization.  
-### **📌 Agile & Scrum Practices:**  
-✅ User Stories & Epics, Product Backlog Grooming, Sprint Planning, Daily Standups (Scrum Meetings), Retrospectives.  
-### **📌 Requirement Documentation & Traceability:**  
-✅ Business Requirement Document (BRD), Functional Requirement Specification (FRS), Requirement Traceability Matrix (RTM), Use Case Diagrams.  
-### **📌 Data Analysis & Visualization:**  
-✅ PowerBI, Excel, Other Data Flow Diagrams.  
-### **📌 Workflow & Collaboration Tools:**  
-✅ Jira, Trello, Confluence, Microsoft Planner, Draw.io.  
-
----
 
 
 **📌 Want to collaborate? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/savitha-kandugula/) or check out my [GitHub]([your_github_url](https://github.com/savithakandugula)).** 🚀  
