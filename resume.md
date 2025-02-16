@@ -14,8 +14,8 @@ permalink: /resume/
 
 # SAVITHA KANDUGULA  
 **BUSINESS ANALYSIS ENTHUSIAST**  
-:round_pushpin: **Location:** Riga, Latvia (EU Blue Card)  
-:heavy_check_mark: **Visa Sponsorship not needed**  
+📍 **Location:** Riga, Latvia (EU Blue Card)  
+✅ **Visa Sponsorship not needed**
 
 ## Contact
 
