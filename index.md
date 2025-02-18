@@ -5,7 +5,7 @@ title: "Savitha Kandugula - Business Analyst Portfolio"
 
 
 <!-- Profile Picture Section -->
-<div class="section text-center"><img src="/assets/image.jpg" alt="Profile Picture" class="profile-pic"></div>
+<div class="section text-center"><img src="/assets/image.jpg" alt="image Picture" class="image-pic"></div>
 
 ## About Me
 
