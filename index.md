@@ -43,7 +43,7 @@ This portfolio showcases my **Business Analysis projects, case studies, and proc
 
 ## Business Analysis Projects & Case Studies
 
-### 🔹 Marketing Performance Dashboard (Power BI)  
+### Marketing Performance Dashboard (Power BI)  
 [<i class="fab fa-github fa-lg"></i> GitHub Link](https://github.com/savithakandugula/PowerBI-Marketing-Dashboard)  
 
 **Problem:**  
@@ -53,21 +53,21 @@ Marketing teams struggled to track key campaign metrics like CTR, CPC, and audie
 Designed a Power BI dashboard integrating data from multiple sources to visualize key KPIs, conversions, and cost efficiency.  
 
 **Outcome:**  
-Provided **real-time campaign insights**, allowing stakeholders to **optimize budgets and improve engagement by 15%**.  
+Provided real-time campaign insights, allowing stakeholders to optimize budgets and improve engagement by 15%.  
 
 ---
 
-### 🔹 Customer Segmentation Dashboards (Power BI)  
+### Customer Segmentation Dashboards (Power BI)  
 [<i class="fab fa-github fa-lg"></i> GitHub Link](https://github.com/savithakandugula/Customer-Segmentation-Dashboard)  
 
 **Problem:**  
 Business teams lacked clear customer insights to optimize product recommendations.  
 
 **Approach:**  
-Built an **interactive Power BI dashboard** visualizing **customer demographics, spending patterns, and regional performance**.  
+Built an interactive Power BI dashboard visualizing **customer demographics, spending patterns, and regional performance**.  
 
 **Outcome:**  
-Helped business teams **personalize offers, leading to a 10% increase in conversion rates**.  
+Helped business teams personalize offers, leading to a 10% increase in conversion rates.  
 
 ---
 
