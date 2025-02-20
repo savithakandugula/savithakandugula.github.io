@@ -57,7 +57,7 @@ Provided **real-time campaign insights**, allowing stakeholders to **optimize bu
 
 ---
 
-### 🔹 Customer Segmentation & Sales Insights (Power BI)  
+### 🔹 Customer Segmentation Dashboards (Power BI)  
 [<i class="fab fa-github fa-lg"></i> GitHub Link](https://github.com/savithakandugula/Customer-Segmentation-Dashboard)  
 
 **Problem:**  
