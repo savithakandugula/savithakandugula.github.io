@@ -9,9 +9,9 @@ title: "Savitha Kandugula - Business Analyst Portfolio"
 
 ## About Me
 
-Aspiring **Business Analyst** with a strong background in **stakeholder management**, **process improvement**, and **Agile methodologies**.  
-Leveraging my **6+ years of experience in Talent Acquisition**, I am transitioning into Business Analysis by working on diverse **industry projects**.  
-This portfolio showcases my **Business Analysis projects, case studies, and process improvements**.
+Aspiring **Business & Data Analyst** with a strong background in **stakeholder management**, **process improvement**, and **Agile methodologies**.  
+Leveraging my **6+ years of experience in Talent Acquisition**, I am transitioning into Business/Data Analysis by working on diverse **industry projects**.  
+This portfolio showcases my **Business Analysis projects, Data Analysis Dashboards using PowerBI, case studies, and process improvements**.
 
 ## Certifications & Badges
 
